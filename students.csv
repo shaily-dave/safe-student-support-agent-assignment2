@@ -1,0 +1,6 @@
+student_id,name,program,fee_status,scholarship_status
+STU001,Shaily Dave,PGDM Big Data Analytics,Paid,Approved
+STU002,Diya Patel,PGDM Artificial Intelligence,Pending,Under Review
+STU003,Rohan Mehta,PGDM Big Data Analytics,Paid,Not Applied
+STU004,Ananya Desai,PGDM Artificial Intelligence,Pending,Approved
+STU005,Kabir Joshi,PGDM Big Data Analytics,Paid,Under Review
